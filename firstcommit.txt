@@ -3,3 +3,8 @@ When starting a new project from scratch and wishing to track its changes with G
 
 This is my first commit
 esertfgyujiokljk
+
+
+
+Why is git add necessary?
+git add provides granular control over what gets included in your next commit. You can selectively stage only certain changes or files, allowing you to create focused and meaningful commits. Without git add, the git commit command would not know which changes from your working directory to include in the commit.
