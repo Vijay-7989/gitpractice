@@ -1,0 +1,4 @@
+When starting a new project from scratch and wishing to track its changes with Git, navigating to the project's root directory in the terminal and executing git init will set up the necessary Git structure.
+
+
+This is my first commit
