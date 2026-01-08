@@ -1,2 +1,7 @@
 This is the second file that is created by us
 rtyugbjnlkm;
+
+
+
+for i in range(1,10):
+	print(i)
